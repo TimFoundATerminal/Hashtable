@@ -70,5 +70,4 @@ public class Hashtable {
         // Add code here for your get method
         return this.table[i];
     }
-
 }
